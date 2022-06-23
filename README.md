@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
-updated food door project.
+updated food delivery project.
 
 with firebase database and firebase authentication.
 
