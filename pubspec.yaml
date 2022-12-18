@@ -33,12 +33,6 @@ dependencies:
   image_picker: ^0.8.5+3
   shared_preferences: ^2.0.15
   scoped_model: ^2.0.0-nullsafety.0
-  http: ^0.13.4
-  firebase: ^9.0.3
-  firebase_auth: ^3.3.20
-  firebase_core: ^1.18.0
-  firebase_database: ^9.0.16
-
 
 
 
